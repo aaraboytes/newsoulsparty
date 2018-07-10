@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+m_EditorVersion: 2018.1.1f1
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d2996fe81b03787641b263251df0f4049c60debf
+m_EditorVersion: 5.6.0f3
+=======
+m_EditorVersion: 2018.1.1f1
+>>>>>>> 796a1c3c4ea166483a57898b38394650ff7aec2a
+<<<<<<< HEAD
+=======
+m_EditorVersion: 2018.1.5f1
+>>>>>>> 05c8aa4c9acf8c95bc3e696b147fe54340b403ce
+>>>>>>> 787514e9a8821728fc30ba711c4a7dc29875951f
+=======
+>>>>>>> d2996fe81b03787641b263251df0f4049c60debf
